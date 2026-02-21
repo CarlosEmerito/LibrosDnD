@@ -106,34 +106,9 @@ Mientras los héroes investigan la plaza, el estancamiento temporal reacciona an
 - Si el grupo es experimentado o avanza muy rápido, una tercera Sombra debilitada (mitad de HP, daño reducido a la mitad) puede aparecer como refuerzo en la ronda 3.
 
 ---
-**Estadísticas de la Sombra de Arena**
+> **Nota para el Director:** Las Sombras de Arena son criaturas modificadas basadas en la [Sombra del Manual de Monstruos](https://5e.tools/bestiary.html#shadow_mm). Cambia el daño necrótico por daño de frío y el drenaje de fuerza por reducción de velocidad (consulta las notas de mecánica en la sección de combate arriba).
 
-*No muerto, caótico maligno*
 
-**Clase de Armadura:** 12
-**Puntos de Golpe:** 16 (3d8+3)
-**Velocidad:** 12 m (40 pies)
-
-| Fuerza | Destreza | Constitución | Inteligencia | Sabiduría | Carisma |
-|--------|----------|--------------|--------------|-----------|---------|
-|   6    |   14     |     13       |      6       |    10     |    8    |
-
-**Resistencias a daño:** ácido, frío, fuego, relámpago, trueno; contundente, cortante y perforante de ataques no mágicos
-**Inmunidad a daño:** necrótico, veneno
-**Inmunidad a condiciones:** agotado, asustado, agarrado, paralizado, petrificado, envenenado, tumbado, apresado
-**Sentidos:** visión en la oscuridad 18 m, Percepción pasiva 10
-**Idiomas:** comprende los idiomas que conocía en vida, pero no puede hablar
-**Desafío:** 1/2 (100 PX)
-
-**Amorfia:** Puede moverse a través de una rendija de 2,5 cm sin reducir su velocidad.
-**Oscuridad sombría:** La luz brillante en un radio de 6 m alrededor de la sombra se reduce a luz tenue.
-
-**Toque helado.** Ataque cuerpo a cuerpo con arma: +4 al ataque, alcance 1,5 m, un objetivo. 
-Impacto: 9 (2d6 + 2) de daño de frío. Si el objetivo es una criatura, su velocidad se reduce en 3 metros hasta el final de su siguiente turno (acumulable). Si la criatura muere por este ataque, su sombra se levanta como una nueva Sombra de Arena al siguiente turno.
-
-**Sombra debilitada:** (opcional, ronda 3) HP 8 (mitad), daño reducido a la mitad.
-
-**Nota:** Esta criatura reemplaza el daño necrótico y el drenaje de fuerza por daño de frío y reducción de velocidad, según la aventura.
 ---
 
 > **Lectura DM:** "Del pozo ascienden figuras sin rostro. En sus torsos, la arena cae al revés; cada grano que sube roba el calor de vuestras manos."
@@ -318,59 +293,11 @@ Aurelius no es un villano convencional; es un protector del pacto que hizo con e
 
 
 
-**Estadísticas de Aurelius el Teje-Ocasos**
+> **Nota para el Director:** Las estadísticas de Aurelius están basadas en el [Sátiro del Manual de Monstruos](https://5e.tools/bestiary.html#satyr_mm), con modificaciones: HP aumentado (27), lanzador de conjuros de nivel 4 con curar heridas, niebla, enredar, piel de corteza y llamar relámpagos, y acciones de guarida especiales (consulta las notas de mecánica arriba).
 
-*Humanoide feérico (sátiro), neutral*
-
-**Clase de Armadura:** 12 (armadura natural)
-**Puntos de Golpe:** 27 (5d8+5)
-**Velocidad:** 9 m (30 pies)
-
-| Fuerza | Destreza | Constitución | Inteligencia | Sabiduría | Carisma |
-|--------|----------|--------------|--------------|-----------|---------|
-|   10   |   14     |     12       |     11       |    15     |   13    |
-
-**Salvaciones:** Int +2, Sab +4
-**Habilidades:** Medicina +4, Naturaleza +4, Percepción +4
-**Sentidos:** Percepción pasiva 14
-**Idiomas:** Común, Silvano, Élfico
-**Desafío:** 2 (450 PX)
-
-**Lanzador de conjuros:** nivel 4, Sabiduría (CD 12, +4 al ataque de conjuro). Conjuros preparados:
-- Trucos (a voluntad): druidcraft, shillelagh, resistencia
-- 1er nivel (4): curar heridas, niebla, enredar
-- 2º nivel (3): piel de corteza, llamar relámpagos
-
-**Forma salvaje (2/día):** Puede transformarse en bestias de hasta CR 1/4 (lobo, ciervo, halcón) durante 2 horas.
-
-**Bastón (shillelagh):** Ataque cuerpo a cuerpo: +4 al ataque, alcance 1,5 m, un objetivo. Impacto: 6 (1d8+2) daño contundente.
-**Invocar Esbirro de Polvo (1/descanso corto):** Invoca un Esbirro de Polvo (ver abajo) a 9 m.
-
-**Acciones de Guarida (iniciativa 20):**
-1. Gravedad Fluctuante: TS de Fuerza (CD 11/13). Fallo: derribado o levita 3 m.
-2. Eco Temporal: Crea un duplicado con 1 HP que lanza Proyectil Mágico (nivel 1) y se desvanece.
-3. Flashback: Un jugador debe superar TS de Carisma (CD 11/13) o repetir su acción anterior o perder su acción y recibir 1d6 daño psíquico.
-
-**Esbirro de Polvo (adaptado de Mephit de Polvo):**
-*Elemental pequeño, neutral*
-**CA:** 12, **PG:** 17 (5d6), **Velocidad:** 9 m, volar 9 m
-| Fuerza | Destreza | Constitución | Inteligencia | Sabiduría | Carisma |
-|--------|----------|--------------|--------------|-----------|---------|
-|   5    |   14     |     10       |     9        |    11     |   10    |
-**Resistencias a daño:** veneno; contundente, cortante y perforante de ataques no mágicos
-**Inmunidad a condiciones:** envenenado
-**Sentidos:** visión en la oscuridad 18 m, Percepción pasiva 10
-**Idiomas:** Terrenal, Auran
-**Desafío:** 1/2 (100 PX)
-**Garras:** Ataque cuerpo a cuerpo: +4 al ataque, alcance 1,5 m, un objetivo. Impacto: 4 (1d4+2) daño cortante.
-**Soplo de Polvo (Recarga 6):** Cono de 4,5 m. TS de Constitución (CD 10) o ralentizado (como el conjuro lentitud) hasta el final de su siguiente turno. No inflige daño.
-
-**Notas de dirección:**
-- Aurelius evita matar; prioriza control, defensa y expulsión.
-- Si baja al 25% de vida, se retira y advierte sobre el destino de la anciana.
 ---
 
-1. **Gravedad Fluctuante:** La gravedad en el claro se vuelve errática. Los jugadores deben superar una TS de Fuerza (CD 11, o 13 si el grupo es experimentado) o quedar derribados o levitar 3 metros, quedando a merced de los ataques a distancia.
+**Lectura DM:** La gravedad en el claro se vuelve errática. Los jugadores deben superar una TS de Fuerza (CD 11, o 13 si el grupo es experimentado) o quedar derribados o levitar 3 metros, quedando a merced de los ataques a distancia.
 2. **Eco Temporal:** Aurelius se desdobla. Crea un duplicado con 1 HP. Actúa inmediatamente después de esta acción de guarida y lanza Proyectil Mágico como si fuera un conjuro de nivel 1 (representando astillas de tiempo). El duplicado se desvanece al final de su acción.
 3. **Flashback:** Aurelius señala a un jugador. Este debe superar una TS de Carisma (CD 11, o 13 si el grupo es experimentado) o repetir exactamente su acción del turno anterior si es posible. Si no puede repetirla, pierde su acción en este turno y recibe 1d6 de daño psíquico por la disonancia cognitiva.
 
